@@ -31,6 +31,4 @@ public class PartidaGoogleDTO implements Serializable {
     private String golsEquipeVisitante;
     private String placarEstendidoEquipeVisistante;
 	
-    
-    
 }
